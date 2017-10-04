@@ -7,6 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using AutoRest.Core;
 using AutoRest.Core.Model;
+
 using AutoRest.Core.Utilities;
 using AutoRest.Extensions;
 using AutoRest.Python.Model;
